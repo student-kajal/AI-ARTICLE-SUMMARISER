@@ -1,4 +1,3 @@
-
 🔍 AI Article Summarizer Chrome Extension
 A professional Chrome Extension that instantly summarizes articles, blogs, and news content on any website using Google’s Gemini API. This project showcases your skills in Chrome Extension development, AI API integration, and modern UI design — making it a standout addition to your portfolio.
 
